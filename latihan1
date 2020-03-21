@@ -1,4 +1,0 @@
-<?
-$ball='purple';
-//Coba ubah ke "yellow", "blue","purple", atau warna lain 
-if($ball)
